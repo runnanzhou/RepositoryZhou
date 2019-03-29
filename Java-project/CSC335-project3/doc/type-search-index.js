@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"BadInputException","h":"","u":""}]
