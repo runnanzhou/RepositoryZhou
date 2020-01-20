@@ -1,9 +1,9 @@
 # My_AmericanAirlines
-This project is used for Hack Arizona 2020.
+This project was for Hack Arizona 2020.
 
 ## Team Members
-- Lihao Guo
 - Runnan Zhou
+- Lihao Guo
 - Jiacheng He
 - Wen Zhu
 
